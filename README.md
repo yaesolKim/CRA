@@ -3,5 +3,5 @@
 
 ## 유용한 링크
 
-- [깃 visualize](https://git-school.github.io/visualizing-git/)
+- [Visualizing git](https://git-school.github.io/visualizing-git/)
 
